@@ -5,3 +5,6 @@
 
 效果图：
 ![3_DCP](https://user-images.githubusercontent.com/51510096/149367286-a5d6a3c8-1182-4925-bdcd-b42e617f1651.jpg)
+
+暗通道图：
+![3_DCP_TM](https://user-images.githubusercontent.com/51510096/149367718-7e62a090-e3aa-4ef4-a79a-381dcb6cb8f1.jpg)
